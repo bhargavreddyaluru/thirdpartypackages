@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.thumbnail-container {
+  display: inline;
+}
+.thumbnail {
+  width: 125px;
+}

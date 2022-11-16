@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.main-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  height: 35vh;
+}
+.sub-container {
+  background-color: #000000;
+}
+
+.movie-type-heading {
+  color: #ffffff;
+}
